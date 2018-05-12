@@ -1,0 +1,28 @@
+_repo: The-Mystery-of-CarlitosMexican-Mystery-Stories--2_44060
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44060-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Randolph, Helen
+    gutenberg_agent_id: '42558'
+    url: http://www.gutenberg.org/2009/agents/42558
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Americans -- Mexico -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: 'The Mystery of Carlitos
+
+  Mexican Mystery Stories #2'
+url: http://www.gutenberg.org/ebooks/44060
