@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42558'
     url: http://www.gutenberg.org/2009/agents/42558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44060#The-Mystery-of-CarlitosMexican-Mystery-Stories--2
 gutenberg_issued: '2013-10-31'
 gutenberg_type: Text
 identifiers:
